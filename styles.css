@@ -1,0 +1,25 @@
+body {
+  background-color: #0e918c;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 80px;
+  padding: 5%;
+  color: #fff;
+}
+
+#main {
+  text-align: center;
+}
+
+iframe {
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.widgets {
+  padding: 2% 2%;
+  margin: 0 auto 2%;
+}
